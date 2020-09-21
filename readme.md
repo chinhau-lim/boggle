@@ -1,16 +1,15 @@
 
-## Apple Siri Team - Coding Exercise
+## A Very Simple Boggle Game
+
+#### Description 
+
+> - Create a n * n board game that find words that can be formed by a sequence of adjacent letters.
+
+> - Constraints: minimum word length = 3, no repetitive instance.
 
 #### Dependencies:
 
 > - tkinter, shutil, string, nltk
-
-#### Description 
-
-> - Create a board game that find words that can be formed by a sequence of adjacent letters.
-
-> - Constraints: minimum word length = 3, no repetitive instance.
-
 
 #### Execution Plan 
 
@@ -35,5 +34,5 @@
     - Original Idea: Use Steve Jobs's GIF but realize we couldn't render GIF using PyGame.
     - Stick to tkinter
 
-5.  Due to time constraint: 
-    - Didn't get to implement 2 players GUI. 
+![](boggle.gif)
+  
